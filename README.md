@@ -1,0 +1,2 @@
+# trendy
+Trend predictor
